@@ -13,6 +13,7 @@ and some of them stick around after.
 - **[MeetSL](https://github.com/thenewgoat/MeetSL)**: live sign language to text captions for online meetings, with speech-to-text going the other way. Next.js + FastAPI + MediaPipe.
 - **[GraphMentor](https://github.com/thenewgoat/GraphMentor)**: turns lecture PDFs into a knowledge graph of topics and how they connect, so you can see what to learn first. Built for DLWeek 2026.
 - **[bookworm-adventures-bot](https://github.com/thenewgoat/bookworm-adventures-bot)**: reads the letter grid off the screen in Bookworm Adventures and finds (or plays) the best word. Mostly an excuse to play an old game.
+- **[serverless-crm](https://github.com/thenewgoat/serverless-crm)**: a small CRM API on AWS (Lambda, API Gateway, Aurora Postgres) that spins up and tears down with one click from GitHub Actions. All Terraform.
 - **[cartpole_DQN](https://github.com/thenewgoat/cartpole_DQN)**: a from-scratch DQN in PyTorch that learns to balance CartPole.
 - **[Cyclistic Bike-Share Case Study](https://github.com/thenewgoat/Cyclistic-Bike-Share-Case-Study)**: my capstone for the Google Data Analytics certificate, looking at how casual riders and members ride differently.
 
