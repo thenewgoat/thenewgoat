@@ -1,4 +1,4 @@
-## Hey, I'm Xinyang 👋
+## Hi, I'm Xinyang 👋
 
 I recently graduated from NTU in Singapore with a degree in Business and Computer
 Science. Most of what I build sits somewhere between machine learning and "I
