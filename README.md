@@ -10,6 +10,7 @@ and some of them stick around after.
 
 ### Things I've worked on
 
+- **[mlflow-telegram](https://github.com/thenewgoat/mlflow-telegram)**: keeps an eye on MLflow training runs from Telegram, with crash and stall alerts, run cards, and zoomable loss curves in a Telegram Mini App. Python, python-telegram-bot and ECharts.
 - **[MeetSL](https://github.com/thenewgoat/MeetSL)**: live sign language to text captions for online meetings, with speech-to-text going the other way. Next.js + FastAPI + MediaPipe.
 - **[GraphMentor](https://github.com/thenewgoat/GraphMentor)**: turns lecture PDFs into a knowledge graph of topics and how they connect, so you can see what to learn first. Built for DLWeek 2026.
 - **[bookworm-adventures-bot](https://github.com/thenewgoat/bookworm-adventures-bot)**: reads the letter grid off the screen in Bookworm Adventures and finds (or plays) the best word. Mostly an excuse to play an old game.
